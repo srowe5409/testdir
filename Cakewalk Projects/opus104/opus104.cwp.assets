@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<cakewalkproject version="1.1"><application><name>SONAR</name><version>21.10.00.30</version><globalaudiofolder>C:\Cakewalk Projects\Audio Data</globalaudiofolder></application><project type="CWP"><audiofolder>C:\Cakewalk Projects\opus104\Audio</audiofolder><file><location>C:\Cakewalk Projects\opus104\opus104.cwp</location></file><assets><audio><file timeline="true"><location>C:\Cakewalk Projects\opus104\Audio\opus104, Aux 1, Rec (2).wav</location></file></audio><mixscene/><video/></assets></project></cakewalkproject>
